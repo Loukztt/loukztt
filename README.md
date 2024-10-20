@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- Conducting a Security Audit checklist
+
 <h2>👨‍💻 Certifications:</h2>
 
 - Google Cybersecurity Professional Certificate
